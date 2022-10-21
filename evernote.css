@@ -1,0 +1,543 @@
+.duke{
+    margin-top: 20px;
+}
+.rc{
+    margin-left: 300px;
+    margin-top: 10%;
+    font-size: xx-large;
+}
+.adv{
+    margin-left: 280px;
+    font-size: 25px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+.pulsar button{
+    margin-left: 600px;
+    background-color: green;
+    color: white;
+    height: 50px;
+    width: 220px;
+    cursor: pointer;
+    margin-top: 20px;
+
+
+}
+.pulsar button :hover{
+    background-color: aliceblue;
+}
+.hunter{
+    margin-left: 600px;
+    font-size: large;
+    cursor: pointer;
+}
+
+
+
+
+.heading{
+    width: 100%;
+    height: 50px;
+    background: white;
+    padding-left: 150px;
+    padding-bottom: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.a{
+    width: 195px;
+    height: auto;
+    cursor: pointer;
+}
+
+.limit{
+    text-align: center;
+    padding: 5px 5px;
+    
+}
+
+body{
+    margin: 0px;
+}
+
+.heading{
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+
+#limit{
+    padding-top: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    padding-left: 15px;
+
+}
+
+#limit1{
+    padding-top: 10px;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    padding-left: 10px;
+
+}
+
+#limit2{
+    padding-top: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    padding-left: 10px;
+
+}
+
+#limit3{
+    padding-top: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    padding-left: 20px;
+
+}
+
+
+
+
+.item7 button{
+    background-color: white;
+    border-color: green;
+    color: green;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 3px;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
+
+.item5{
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    padding-left: 200px;
+}
+.item6{
+    width: 80px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.b{
+    padding-left: 140px;
+    width: 170px;
+    height: auto;
+
+}
+.home{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.abstract{
+    padding-left: 10%;
+}
+.abstract img{
+    width: 100%;
+    height: auto;
+}
+.details{
+    width: 50%;
+    font-size: 18px;
+}
+
+.simple{
+    padding-left: 400px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.powerfull{
+    padding-left: 500px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.notes img{
+    padding-top: 50px;
+    padding-left: 250px;
+    width: 60%;
+    height: auto;
+}
+.g{
+    padding-left: 650px;
+    color: green;
+}
+
+.well{
+    padding-left: 300px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.well2{
+    padding-left: 600px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.new{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.f{
+   /* padding-top: 20px; */
+    /* padding-left: 50px; */
+    width: 10%;
+    height: 100px;
+    background-color: white;
+}
+.f img{
+    width: 50%;
+    height: auto;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.inc {
+    /* padding-top: 60px; */
+    margin-left: 10px;
+    background-color: white;
+    width: 10%;
+    height: 100px;
+}
+.inc img{
+    width: 50%;
+    height: auto;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.verge{
+    /* margin-right: 100px; */
+    background-color: white;
+    width: 10%;
+    margin-left: 10px;
+    height: 100px;
+}
+.verge img{
+    width: 90%;
+    height: auto;
+    margin-left: 10px;
+}
+.ent{
+    background-color: white;
+    width: 10%;
+    margin-left: 10px;
+    height: 100px;
+
+}
+.ent img{
+    width: 90%;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+.business{
+    background-color: white;
+    width: 10%;
+    margin-left: 10px;
+    height: 100px;
+}
+.business img{
+    width: 90%;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.good{
+    background-color: white;
+    width: 10%;
+    margin-left: 10px;
+    height: 100px;
+
+}
+.good img{
+    width: 90%;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.single{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.multilevel{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: large;
+    font-weight: 25px;
+    float: left;
+}
+.multiple{
+    margin-top: 20px;
+    margin-left: 0px;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
+.hybrid{
+    color: green;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+}
+.hierarchy{
+    width: 30%;
+    height: auto;
+    margin-left: 300px;
+
+}
+
+.method{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.overloading{
+    width: 20%;
+    height: auto;
+    margin-left: 140px;
+
+}
+.constructor{
+    margin-left: 400px;
+    margin-top: 40px;
+    font-size: x-large;
+}
+.overriding{
+    margin-left: 0%;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.chaining{
+    font-weight: bold;
+    font-size: 18px;
+    color: green;
+    cursor: pointer;
+}
+
+.apple{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.orange{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: large;
+    font-weight: 25px;
+    float: left;
+}
+.grapes{
+    margin-top: 20px;
+    margin-left: 0px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.pineapple{
+    color: green;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+}
+.banana{
+    width: 10%;
+    height: auto;
+    margin-left: 200px;
+
+}
+.bmw{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.benz{
+    width: 20%;
+    height: auto;
+    margin-left: 140px;
+}
+.audi{
+    margin-left: 400px;
+    margin-top: 40px;
+    font-size: large;
+}
+.mini{
+    margin-left: 0%;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.cooper{
+    font-weight: bold;
+    font-size: 18px;
+    color: green;
+    cursor: pointer;
+}
+
+.footer{
+    padding-left: 150px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.z{
+    padding-left: 0px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+#x{
+    
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+
+}
+
+.s{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 15px;
+
+
+}
+
+#t{
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    padding-left: 80px;
+}
+
+.i{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#j{
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    padding-left: 80px;
+}
+
+.c{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#d{
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    padding-left: 80px;
+}
+
+.e{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#f{
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    padding-left: 80px;
+}
+
+.ninja{
+    padding-top: 70px;
+    padding-left: 150px;
+    display: flex;
+    flex-direction: row;
+}
+.bullet{
+    font-size: medium;
+    cursor: pointer;
+
+}
+.fz{
+    padding-left: 600px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.mt{
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.rx{
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.rd{
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.v4{
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.honda{
+    padding-top: 10px;
+    padding-left: 150px;
+    display: flex;
+    flex-direction: row;
+}
+.hornet{
+    font-size: medium;
+}
+.dio{
+    padding-left: 600px;
+    font-size: medium;
+    cursor: pointer;
+}
+.activa{
+    padding-left: 50px;
+    cursor: pointer;
+}
+.unicorn{
+    padding-left: 50px;
+    cursor: pointer;
+}
+
+
